@@ -3,7 +3,7 @@
 ## Sobre o Projeto 🚀
 Projeto criado para exibir todos os pokemons de uma pokedex utilizando uma api para trazer essas informaçoes. 
 
-<img src = "images/pokedex.png" align="center"/>
+<img src = "images/banner.png" align="center"/>
 
 
 ## Tecnologia 💻
